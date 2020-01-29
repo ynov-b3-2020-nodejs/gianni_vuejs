@@ -1,0 +1,13 @@
+{
+  "collections": {
+    "products": [
+      {
+        "micro": {
+          "name": "Micro Kit Pro",
+          "price": "59.99",
+          "description": "Good Microphone"
+        }
+      }
+    ]
+  }
+}
